@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+# Pre-commit hook: auto-sanitize STEP files before committing.
+
+set -euo pipefail
+
+STEP_FILES=$(git diff --cached --name-only --diff-filter=ACM | grep -i '\.step$' || true)
+
+if [ -z "$STEP_FILES" ]; then
+  exit 0
+fi
+
+SCRIPT="$(git rev-parse --show-toplevel)/scripts/sanitize-step.sh"
+
+if [ ! -x "$SCRIPT" ]; then
+  echo "ERROR: sanitize-step.sh not found or not executable"
+  exit 1
+fi
+
+for f in $STEP_FILES; do
+  "$SCRIPT" "$f"
+  git add "$f"
+done
+
+echo "STEP files sanitized."
