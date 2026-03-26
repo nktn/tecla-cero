@@ -32,7 +32,7 @@
 | 乾電池                                       | 2     | 単三、Ni-MH可。USBで充電できるリチウム電池内蔵のものを使う場合、必ずキーボードから取り外してから充電してください                                |
 | 瞬間接着剤                                       | 1     | 入手先：[amazon](https://www.amazon.co.jp/dp/B009AO65NS) |
 | ネオジムマグネット                                       | 4     | 直径6mmのマグネット。入手先：[100均ショップ：キャンドゥなど](https://netshop.cando-web.co.jp/view/item/000000023967)|
-| トッププレート(3dp版)                                           | 2   |　[3df-files/for-3dpフォルダ](https://github.com/nktn/tecla-cero/tree/main/3d-files/for-3dp)のファイルを３Dプリンターで印刷してください|
+| トッププレート(3dp版)                                           | 2   |[3df-files/for-3dpフォルダ](https://github.com/nktn/tecla-cero/tree/main/3d-files/for-3dp)のファイルを３Dプリンターで印刷してください|
 | ボトムプレート(3dp版)                                             | 2   |[3df-files/for-3dpフォルダ](https://github.com/nktn/tecla-cero/tree/main/3d-files/for-3dp)のファイルを３Dプリンターで印刷してください|
 | 電池ケースカバー(3dp版)                                             | 2   |デザインありとなしの２種類あります。お好みで[3df-files/for-3dpフォルダ](https://github.com/nktn/tecla-cero/tree/main/3d-files/for-3dp)のファイルを３Dプリンターで印刷してください|
 エンコンダーノブ(3dp版)                                             | 1   |[3df-files/for-3dpフォルダ](https://github.com/nktn/tecla-cero/tree/main/3d-files/for-3dp)のファイルを３Dプリンターで印刷してください|
