@@ -3,7 +3,7 @@
 こちらはTECLA-CEROのビルドガイドです。  
 **はんだ付けが必要です**
 
-また、プロトタイプということでケースが**3Dプリンターでの印刷**確認しかできておりません。
+また、プロトタイプということでケースが**3Dプリンターでの印刷**確認しかできておりません。ケースも試行錯誤
 
 ## プロト販売の同梱品
 | 名称                                                     | 数  |備考|                                                                 
@@ -16,7 +16,7 @@
 | フレキシブルケーブル(0.5mmピッチ、6P、100mm、電極同一面) | 1   |トラックボール用部品 / Amazonなど|
 | ベアリング(4x1.5x2 mm)                                   | 3   |トラックボール用部品 / 入手先:[Amazon](https://www.amazon.co.jp/dp/B0CV75YFQY)|
 | ねじ(M1.4)                                               | 3   |トラックボール用部品 / 入手先:Amazonなど|
-| 19.05mm トラックボール | 1     |BOOTHやAliexpressなどありますが、 [BEEKEEBのオレンジレッド](https://shop.beekeeb.jp/products/19mm-trackball)がおすすめです。|
+| (同梱はおまけ)19.05mm トラックボール | 1     |BOOTHやAliexpressなどありますが、 [BEEKEEBのオレンジレッド](https://shop.beekeeb.jp/products/19mm-trackball)がおすすめです。|
 | キースイッチソケット(Choc V2)                          |38 | 入手先：[遊舎工房](https://shop.yushakobo.jp/products/a01ps?variant=37665172553889) など |
 
 
