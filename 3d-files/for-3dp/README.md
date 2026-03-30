@@ -18,7 +18,7 @@ PLA Matte(Black)
 フィラメント設定など：デフォルト(変更なし)
 
 # Stepファイルの読み込み設定
-デフォルト
+デフォルト  
 ![](../../images/3dp/step_import.jpg)
 
 # 各種設定について
