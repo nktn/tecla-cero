@@ -37,7 +37,7 @@
 | ボトムプレート(3dp版)                                             | 2   |[3df-files/for-3dpフォルダ](https://github.com/nktn/tecla-cero/tree/main/3d-files/for-3dp)のファイルを３Dプリンターで印刷してください|
 | 電池ケースカバー(3dp版)                                             | 2   |デザインありとなしの２種類あります。お好みで[3df-files/for-3dpフォルダ](https://github.com/nktn/tecla-cero/tree/main/3d-files/for-3dp)のファイルを３Dプリンターで印刷してください|
 エンコンダーノブ(3dp版)                                             | 1   |[3df-files/for-3dpフォルダ](https://github.com/nktn/tecla-cero/tree/main/3d-files/for-3dp)のファイルを３Dプリンターで印刷してください|
-
+トラックボールケース(3dp版)                                             | 1   |[3df-files/for-3dpフォルダ](https://github.com/nktn/tecla-cero/tree/main/3d-files/for-3dp)のファイルを３Dプリンターで印刷してください|
 
 ## 利用工具
 - はんだごて
