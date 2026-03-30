@@ -14,7 +14,7 @@ PLA Matte(Black)
 
 # Bambu Studio設定
 バージョン：2.5.0.66  
-システムプリセット： 0.20mm Standard @BBL A1M
+システムプリセット： 0.20mm Standard @BBL A1M  
 フィラメント設定など：デフォルト(変更なし)
 
 # Stepファイルの読み込み設定
